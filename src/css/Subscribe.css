@@ -1,0 +1,30 @@
+.subscribe-section {
+    background-color: #818181; 
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    max-width: 100%; 
+    margin: 20px 0;
+  }
+  
+  .subscribe-section h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000; 
+    margin: 0;
+  }
+  
+  .subscribe-section input[type="email"] {
+    flex: 1; 
+    padding: 8px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .subscribe-section input[type="submit"] {
+    background-color: #b0b0b0;
+    color: #000;
+    padding: 8px 12px;
+    margin-left: 10px;
+  }

@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #666666;
+    padding: 10px 20px;
+  }
+  
+  .navbar-logo span {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .navbar-search input {
+    width: 900px;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+  }
+  
+  .navbar-links a {
+    margin-left: 30px;
+    color: #333;
+    font-weight: bold;
+  }
+
+.header-image-container {
+    width: 100%;
+    margin-top: 20px; 
+  }
+  
+  .header-image {
+    width: 100%;
+    height: auto; 
+    object-fit: cover; 
+  }
+  
